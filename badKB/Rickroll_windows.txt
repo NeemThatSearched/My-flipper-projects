@@ -1,0 +1,19 @@
+REM This is BadKB for windows
+
+REM Open windows ps
+DELAY 1000
+GUI r
+DELAY 300
+STRING powershell
+DELAY 200
+ENTER
+DELAY 750
+
+STRING start "https://rutube.ru/video/f3b615db135287a64584737e664e1e4b/"
+DELAY 100
+ENTER
+
+DELAY 7000
+LEFT
+STRING f
+STRING m
